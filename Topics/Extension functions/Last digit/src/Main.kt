@@ -1,0 +1,1 @@
+fun Int.lastDigit(): Int = this - this / 10 * 10
